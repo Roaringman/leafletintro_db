@@ -1,0 +1,16 @@
+{
+  "name": "leafletintro",
+  "version": "1.0.0",
+  "description": "Leaflet intro class 2024",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Roar Engell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "leaflet": "^1.9.4",
+    "pg": "^8.11.3"
+  }
+}
